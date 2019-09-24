@@ -1,0 +1,16 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'IBANS Workshop - Spring 2020'
+tagline:          'Tools for reproducible computational research'
+description:      'Dates TBA'
+location:         'University of St Andrews'
+url:              https://rse-standrewscs.github.io
+baseurl:          /ibans-workshop-spring-2020 
+
+exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]
